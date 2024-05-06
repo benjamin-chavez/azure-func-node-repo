@@ -1,0 +1,9 @@
+{
+  "azureFunctions.deploySubpath": "node-azure-functions-project-2",
+  "azureFunctions.postDeployTask": "pnpm install (functions)",
+  "azureFunctions.projectLanguage": "JavaScript",
+  "azureFunctions.projectRuntime": "~4",
+  "debug.internalConsoleOptions": "neverOpen",
+  "azureFunctions.projectLanguageModel": 4,
+  "azureFunctions.preDeployTask": "pnpm prune (functions)"
+}
